@@ -1,1 +1,1 @@
-Sample file with new changes
+Sample file with new changes.
